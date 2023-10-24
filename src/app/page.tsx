@@ -8,6 +8,7 @@ export default function Home() {
       <Link href={'/sobre'}>
       <i>Sobre</i>
       </Link>
+      <p>Bem-Vindo(a) ao nossi site. Aqui você encontrará de tudo um pouco</p>
     </div>
   )
 }

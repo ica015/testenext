@@ -9,6 +9,9 @@ export default function Sobre() {
       <Link href={'/'}>
         <i>Página Inicial</i> 
       </Link>
+      <div>
+        <p>aqui vamos contar um pouco de nossa história</p>
+      </div>
     </div>
   )
 }
