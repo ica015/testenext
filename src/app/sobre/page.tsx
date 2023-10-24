@@ -7,7 +7,7 @@ export default function Sobre() {
       <h1>Sobre Nós</h1>
       <br />
       <Link href={'/'}>
-        <i>Página Inicial</i>
+        <i>Página Inicial</i> 
       </Link>
     </div>
   )
